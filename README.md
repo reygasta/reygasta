@@ -1,6 +1,6 @@
 <p align="center"><!-- Optional banner goes here--> </p>
 <div>
-<img align="right" width="400" alt="profile-art" src="https://i.pinimg.com/originals/1f/0b/1a/1f0b1a5ddf8e8f4f5b7fdd6c1b2b6c7d.jpg">
+<img align="right" width="400" alt="spongebob-gif" src="https://media1.tenor.com/m/WpuDMhI0d1EAAAAC/spongebob.gif">
 
 <h2> // About me </h2>
 <ul>
