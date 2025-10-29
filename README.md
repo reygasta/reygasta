@@ -1,4 +1,4 @@
-<p align="center"><!-- Optional banner goes here--> </p>
+<p align="center"></p>
 <div>
 <img align="right" width="400" alt="spongebob-gif" src="https://media1.tenor.com/m/WpuDMhI0d1EAAAAC/spongebob.gif">
 
@@ -18,10 +18,12 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="css">
 <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="js">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="python">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c">
 <ul>
 <li>
 <h4> currently learning </h4>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="ts">
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="solidity">
 </li>
 </ul>
 </li>
@@ -52,4 +54,4 @@
 
 <hr>
 <p><a href="https://github.com/Reygasta">Reygasta</a>
-Last Edited on: 18/09/2025</p></div>
+Last Edited on: 29/10/2025</p></div>
